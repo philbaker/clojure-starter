@@ -2,3 +2,5 @@
 .cpcache/
 .lsp/
 .nrepl-port
+.env
+.lein-env
