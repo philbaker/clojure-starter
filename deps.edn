@@ -1,7 +1,7 @@
 {:paths ["src"]
  :deps
- {org.clojure/clojure {:mvn/version "1.10.3"}}
+ {org.clojure/clojure {:mvn/version "1.11.1"}}
  :aliases
  {:dev 
   {:extra-paths ["dev"]
-   :extra-deps {org.clojure/tools.nrepl {:mvn/version "0.2.13"}}}}}
+   :extra-deps {nrepl/nrepl {:mvn/version "1.0.0"}}}}}
