@@ -2,6 +2,7 @@
 .cpcache/
 .clj-kondo/
 .lsp/
+.clerk/
 .nrepl-port
 .env
 .lein-env
